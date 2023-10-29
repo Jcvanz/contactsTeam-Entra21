@@ -72,12 +72,12 @@ a {
 @media (max-width: 860px) {
     main {
         margin: 3px auto;
-        gap: 8px;
+        gap: 10px;
     }
     
     h1 {
-        font-size: 15px;
-        text-align: center;
+        font-size: 17px;
+        margin: -20px 0 20px 0;
     }
 
     h3 {
