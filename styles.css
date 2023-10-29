@@ -72,6 +72,11 @@ a {
     color: #333;
 }
 
+p {
+    width: 100px;
+    text-align: start;
+}
+
 @media (max-width: 860px) {
     main {
         margin: 3px auto;
